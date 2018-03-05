@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>2018-03-02-welcome-to-jekyll</title>
+  <link rel="stylesheet" href="https://stackedit.io/style.css" />
+</head>
+
+<body class="stackedit">
+  <div class="stackedit__html"><p>You’ll find this post in your <code>_posts</code> directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run <code>jekyll serve</code>, which launches a web server and auto-regenerates your site when a file is updated.</p>
+<p>To add new posts, simply add a file in the <code>_posts</code> directory that follows the convention <code>YYYY-MM-DD-name-of-post.ext</code> and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.</p>
+<p>Jekyll also offers powerful support for code snippets:</p>
+<p>{% highlight ruby %}<br>
+def print_hi(name)<br>
+puts "Hi, #{name}"<br>
+end<br>
+print_hi(‘Tom’)<br>
+#=&gt; prints ‘Hi, Tom’ to STDOUT.<br>
+{% endhighlight %}</p>
+<p>Check out the <a href="https://jekyllrb.com/docs/home">Jekyll docs</a> for more info on how to get the most out of Jekyll. File all bugs/feature requests at <a href="https://github.com/jekyll/jekyll">Jekyll’s GitHub repo</a>. If you have questions, you can ask them on <a href="https://talk.jekyllrb.com/">Jekyll Talk</a>.</p>
+</div>
+</body>
+
+</html>
